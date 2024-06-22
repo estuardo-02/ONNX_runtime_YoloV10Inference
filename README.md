@@ -2,9 +2,9 @@
 Here's an example on how to implement yolov10 inference using cpp for image labeling. It is a modified version of the following repo: https://github.com/DanielSarmiento04/yolov10cpp
 
 ## Dependencies
-Visual Studio 22
-ONNX runtime
-OpenCV
+- Visual Studio 22
+- ONNX runtime
+- OpenCV
 
 ## How to install
 Use NuGet to install the following packages:
