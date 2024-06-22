@@ -17,6 +17,6 @@ Use NuGet to install the following packages:
 Download the onnx model here: https://github.com/rlggyp/YOLOv10-OpenVINO-CPP-Inference/raw/model/assets/yolov10n.onnx
 
 ## Usage 
-run the generated .exe file using visual studio developer PowerShell
+After compiling project, run the generated .exe file using visual studio developer PowerShell
 
 ./OnnxRuntimeResNet <model_path.onnx> <video_path>
