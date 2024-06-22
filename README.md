@@ -18,5 +18,6 @@ Download the onnx model here: https://github.com/rlggyp/YOLOv10-OpenVINO-CPP-Inf
 
 ## Usage 
 After compiling project, run the generated .exe file using visual studio developer PowerShell
-
-./OnnxRuntimeResNet <model_path.onnx> <video_path>
+The .exe file should be located in the build path of VS, say x64/Debug/OnnxRuntimeYoloInference.exe
+Use any image of your choice to conduct testing. 
+./OnnxRuntimeYoloInference <model_path.onnx> <video_path>
